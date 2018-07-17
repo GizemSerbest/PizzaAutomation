@@ -1,0 +1,10 @@
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\bin\Debug\PizzaOtomasyon.exe.config
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\bin\Debug\PizzaOtomasyon.exe
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\bin\Debug\PizzaOtomasyon.pdb
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.Form1.resources
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.Properties.Resources.resources
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.exe
+C:\Users\Gizem\source\repos\PizzaOtomasyon\PizzaOtomasyon\obj\Debug\PizzaOtomasyon.pdb
